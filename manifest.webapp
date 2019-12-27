@@ -1,0 +1,28 @@
+{
+  "version": "1.0.0",
+  "name": "Anita Chaudhary",
+  "launch_path": "/",
+  "description": "PAnita Chaudhary is licensed lower secondary level educator with post graduate degree in English Language.",
+  'theme_color':'#0069c0',
+  'background_color':'#ffffff',
+  'start_url':'/index.html',
+  "icons": {
+    "128": "/images/touch/icon-128x128.png"    
+  },
+  "developer": {
+    "name": "Paras Nath Chaudhary",
+    "url": "https://parasnath.com.np"
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "default_locale": "en",
+  "permissions": {
+  },
+  "locales": {
+    "en": {
+      "name": "Anita Chaudhary",
+      "description": "Anita Chaudhary is licensed lower secondary level educator with post graduate degree in English Language."
+    }
+  }
+}
